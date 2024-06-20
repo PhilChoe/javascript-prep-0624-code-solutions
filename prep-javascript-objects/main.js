@@ -13,3 +13,5 @@ console.log("The person's job is", person.job);
 
 person['previousJob'] = 'a student';
 console.log("The person's previous job was", person['previousJob']);
+
+console.log('The complete person is', person);
