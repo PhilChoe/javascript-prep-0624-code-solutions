@@ -1,19 +1,19 @@
 const number1 = 2;
 const number2 = 4;
-prod = number1 * number2;
+const prod = number1 * number2;
 console.log(2 * 4);
 console.log(typeof prod);
 
 const charge = 10;
 const payment = 5;
-amountRemaining = charge - payment;
+const amountRemaining = charge - payment;
 console.log(amountRemaining);
 console.log(typeof amountRemaining);
 
 const tests = 1;
 const assignments = 2;
 const finals = 3;
-grade = (tests + assignments + finals) / 3;
+const grade = (tests + assignments + finals) / 3;
 console.log(grade);
 console.log(typeof grade);
 
